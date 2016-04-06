@@ -1,2 +1,2 @@
 # First-repo
-latihan
+first update
